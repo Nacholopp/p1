@@ -1,0 +1,9 @@
+git clone (url) : clona el repositorio web en tu carpeta local
+git init : para poder iniciar un repositorio en local y poder subir cambios en remoto
+git status : para saber en que rama estás, si estas actualizado con respecto a ella, si tienes algo que commitear
+git add . : con el punto al final te añade todos los cambios que tienes en local y que en un futuro añadirás al remoto
+git commit -m "mensaje del commit" : se usa para añadir los cambios con un mensaje
+git push: subes los cambios seleccionados al repositorio remoto que has clonado
+git checkout : sirve para monstrar en que rama estas y cambiar entre ellas
+git checkout -b feature/1 : crea una nueva rama llamada feature/1
+git checkout main : Te cambia a la rama main
